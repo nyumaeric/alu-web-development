@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
 }
 article {
+	padding: 50px 15px;
 }
 header {
 	border-bottom: 1px solid rgb(221,221,221);
