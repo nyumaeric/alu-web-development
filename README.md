@@ -1,1 +1,1 @@
-The project serves as a learning resource and a reference for creating modern and feature-rich web applications using HTML. It covers topics such as responsive design, semantic HTML, forms, multimedia, and more.
+HTML & CSS ADVANCED PROJECT
