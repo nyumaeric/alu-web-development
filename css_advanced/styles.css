@@ -1,0 +1,54 @@
+.school_page {
+    background-image: url("Background.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+body {
+font-family: Source Sans Pro;
+font-style: normal;
+}
+
+.header {
+display: flex;
+flex-direction: row;
+flex: auto;
+background-image: url("Background.jpg");
+padding: 2% 5% 2% 5%;
+filter: grayscale(100%);
+position: absolute;
+left: -0.025%;
+right: -0.025%;
+top: 0%;
+bottom: -26.48%;
+}
+
+img {
+font-size: 12px;
+margin-left: 50px;
+}
+
+.nav {
+font-size: 12px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 1px;
+text-align: right;
+color: white;
+margin-right: 50px;
+margin-bottom: 0px;
+}
+
+main h1 {
+text-align: center;
+color: white;
+font-size: 70px;
+font-style: Source Sans Pro;
+
+}
+
+main p {
+text-align: center;
+color: white;
+}
